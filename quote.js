@@ -231,6 +231,7 @@ quoteArray[ quoteArray.length ] = "<dl><dt>&quot;Jesus Christ&mdash;who as it tu
 quoteArray[ quoteArray.length ] = "<dl><dt>&quot;Greatness, no matter how brief, stays with a man.&quot;</dt><dd>--Jimmy McGinty</dd></dl>";
 quoteArray[ quoteArray.length ] = "<dl><dt>&quot;Autobiography is an unrivaled vehicle for telling the truth about other people.&quot;</dt><dd>--Philip Guedalla</dd></dl>";
 quoteArray[ quoteArray.length ] = "<dl><dt>&quot;With or without religion, you would have good people doing good things and evil people doing evil things. But for good people to do evil things, that takes religion.&quot;</dt><dd>--Steven Weinberg</dd></dl>";
+quoteArray[ quoteArray.length ] = "<dl><dt>&quot;The worst time to have a heart attack is during a game of charades.&quot;</dt><dd>--Demitri Martin</dd></dl>";
 
 function getQuote()
   {
